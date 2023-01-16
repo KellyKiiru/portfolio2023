@@ -4,3 +4,7 @@
     src: url('./assets/AbrilFatface-Regular.ttf');
   }
 
+  @font-face {
+    font-family: 'Abel-Regular';
+    src: url('./assets/Abel-Regular.ttf');
+  }
