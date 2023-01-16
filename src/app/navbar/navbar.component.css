@@ -2,4 +2,17 @@
     color: #F5C577;
     font-size:xx-large;
     font-family: 'AbrilFatface-Regular';
+    /* font-weight: 700; */
+    letter-spacing:1px;
+    width: fit-content;
+    /* background-color: white; */
+    border: 1px solid red;
+}
+
+.kelly{
+    color: #F5C577;
+}
+
+.navbar{
+    border: 1px solid white;
 }
