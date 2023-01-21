@@ -6,14 +6,24 @@
     letter-spacing:1px;
     width: fit-content;
     /* background-color: white; */
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
-.kellynav ul{
+.home, .kellynav ul li a{
+    font-family: 'AbrilFatface-Regular';
     color: #F5C577;
+        
 }
 
-.navbar{
+.navbarfull{
     border: 1px solid white ;
+    display: flex;
+    justify-content: space-evenly;
     
+}
+.kellynav{
+    border: 2px solid green ;
+    display: flex;
+    justify-content: space-evenly;
+
 }
