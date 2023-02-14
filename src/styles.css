@@ -8,3 +8,18 @@
     font-family: 'Abel-Regular';
     src: url('./assets/Abel-Regular.ttf');
   }
+*{
+  color: antiquewhite;
+}
+
+h1, h2{
+  color: #F5C577;
+  font-family: 'AbrilFatface-Regular';
+}
+p, li{
+  font-family: 'Abel-Regular';
+}
+li{
+  list-style: none;
+  line-height:50px
+}
