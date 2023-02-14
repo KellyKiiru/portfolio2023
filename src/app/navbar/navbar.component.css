@@ -1,3 +1,6 @@
+.navbarbg{
+    background-color: #181C26;
+}
 .kelly h1{
     color: #F5C577;
     font-size:xx-large;
@@ -16,17 +19,14 @@
 }
 
 .navbarfull{
-    border: 1px solid white ;
+    /* border: 1px solid white ; */
     display: flex;
     justify-content: space-evenly;
     
 }
 .kellynav ul{
-    border: 2px solid green ;
+    /* border: 2px solid green ; */
+    width: 100%;
     display: flex;
     justify-content: space-evenly;
- 
-
-    
-    
 }
