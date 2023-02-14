@@ -1,0 +1,6 @@
+.about-me{
+    height: 400px;
+    background-color: #151821;
+    display: flex;
+    flex-direction: column;
+}
