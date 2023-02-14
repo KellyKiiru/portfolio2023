@@ -1,0 +1,26 @@
+.one { grid-area: one; }
+.two { grid-area: two; }
+.three { grid-area: three; }
+.four { grid-area: four; }
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'one one one one two two two two two two two two';
+  gap: 10px;
+  /* background-color: #2196F3; */
+  padding: 30px;
+}
+.grid-containeer {
+    display: grid;
+    grid-template-areas:
+    'three three three three three three three four four four four four';
+    gap: 10px;
+    /* background-color: red; */
+    padding: 30px;
+}
+
+.grid-container > div , .grid-containeer > div {
+    display: flex;
+    justify-content: center;
+}
